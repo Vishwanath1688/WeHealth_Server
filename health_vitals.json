@@ -1,0 +1,25 @@
+{
+	"healthVitals": [{
+		"vitalName": "heart rate",
+		"vitalValue": "80 bpm",
+		"vitalDayAndTime": "25th Feb 2012",
+		"vitalSource": "iPhone"
+	}, {
+		"vitalName": "BP",
+		"vitalValue": "180/70",
+		"vitalDayAndTime": "25th Feb 2012",
+		"vitalSource": "Fitbit"
+	}, {
+		"vitalName": "Sugar",
+		"vitalValue": "100/120 mg/dl",
+		"vitalDayAndTime": "25th Feb 2012",
+		"vitalSource": "Android"
+	}, {
+		"vitalName": "Breathing",
+		"vitalValue": "10-18 minute",
+		"vitalDayAndTime": "25th Feb 2012",
+		"vitalSource": "Speco"
+	}],
+
+	"healthVitalsTitle": "Vitals"
+}

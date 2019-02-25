@@ -1,0 +1,14 @@
+{
+	"vitalsSources": [{
+		"vitalSourceName": "iPhone"
+	}, {
+		"vitalSourceName": "FitBit"
+	}, {
+		"vitalSourceName": "Android"
+	}, {
+		"vitalSourceName": "MI Band"
+	}, {
+		"vitalSourceName": "Wereable"
+	}],
+	"vitalsSourcesTitle": "Devices"
+}

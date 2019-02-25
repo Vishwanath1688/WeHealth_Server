@@ -1,0 +1,25 @@
+{
+  "name": "healthvitals",
+  "version": "1.0.0",
+  "description": "Rest Services",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"\""
+  },
+  "keywords": [
+    "\"API\""
+  ],
+  "author": "Vishwanath",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "firebase-admin": "^7.0.0",
+    "mqtt": "^2.18.8"
+  }
+}
